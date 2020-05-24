@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">HW2lab</string>
     <string name="title_activity_maps">Map</string>
+    <string name="clear_memory">clear \n memory</string>
+    <string name="myFileprovider">com.bs.hw2lab.fileprovider</string>
 </resources>
